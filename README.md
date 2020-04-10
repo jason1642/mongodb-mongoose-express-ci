@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/jason1642/mongodb-mongoose-express-ci/badge.svg?branch=master)](https://coveralls.io/github/jason1642/mongodb-mongoose-express-ci?branch=master)
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
 ![](https://www.exoscale.com/static/syslog/2018-11-08-what-is-ci/what-is-continuous-integration.png)
@@ -791,3 +793,5 @@ Once the build is complete, test the endpoints on Heroku to confirm:
 ## Feedback
 
 > [Take a minute to give us feedback on this lesson so we can improve it!](https://forms.gle/vgUoXbzxPWf4oPCX6)
+
+
